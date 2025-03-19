@@ -37,6 +37,9 @@ Due to lack of documentation, it is not clear whether this MVP solves its own go
 19. RE-invented html layout breakpoints... maybe it would be better to use Bootstrap?
 20. Too much html copy-paste - could be refactored in components.
 21. Project seems untestable.
+22. Dependencies or external Libraries are very outdated, it is hard to create a dev environment.
+23. Project have 44 vulnerabilities (3 low, 22 moderate, 18 high, 1 critical), mongoose is the most outdated library.
+
 
 
 # How to decide if further development is planned.
