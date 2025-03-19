@@ -1,5 +1,8 @@
 * #  Project Evaluation Questions
 
+* please send us a screenshot of a trading dashboard.
+![screenshot](https://github.com/danilovmy/crypto-trading/blob/main/docs/images/Screenshot.png)
+
 
 - ## **Dashboard Check:**
 
@@ -8,14 +11,15 @@
 thetadog.io website is not available, not possible to check.
 
 
-* Please explain some bugs in the trading dahsboard.
+* Please explain some bugs in the trading dashboard.
+
 1. Table header is sticky, but when scrolling down it not working properly. Can be solved through CSS or JS code changes.
 2. The Token table don't do anything, but it was planned to be used as filter. Can be solved through JS code changes.
 3. AboutPage Component, DetailPage Component not implemented yet.
 4. Links below don't do anything, functionality not implemented yet
 5. Advertize header on the top takes place and it seems ugly, like in cheapest trading platforms. Can be removed from the design.
 6. Trading dashboard don't have any functionality to trade tokens, so there is no need to implement it.
-
+7. Trading dashboard not too responsible as it awaited.
 
 - ## **Permissions Check:**
 
