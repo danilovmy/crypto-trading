@@ -19,7 +19,7 @@ thetadog.io website is not available, not possible to check.
 
 - ## **Permissions Check:**
 
-  ## Have all the necessary permissions been granted (e.g., token price, “TRADE ON THETASWAP”, etc.) for the trading process to work smoothly?
+* Have all the necessary permissions been granted (e.g., token price, “TRADE ON THETASWAP”, etc.) for the trading process to work smoothly?
 
 The dashboard don't offer functionality to trade tokens, so there is no permission needed.
 
@@ -27,10 +27,13 @@ The dashboard don't offer functionality to trade tokens, so there is no permissi
 - ## **Landing Page Animation Feedback:**
 
 * What’s your take on the animations currently on the landing page?
+
 I see the fast running row, like in old trading movies or tv news. It looks cool, but it is not needed at all.
 
 * Do you feel they enhance the user experience, or are they distracting and in need of improvement?
+
 Animation is to fast and Animated elements can not be used directly, because it -> this element not possible to use.
 
 * Let me know your thoughts about animation on the page.
+
 For opening/close Token-table can be applied smooth animation to make it more user friendly.
